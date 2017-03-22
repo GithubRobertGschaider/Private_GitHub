@@ -1,0 +1,6 @@
+c:\users\robert\documents\visual studio 2015\Projects\PGPISConsoleApplication1\PGPISConsoleApplication1\bin\Debug\PGPISConsoleApplication1.exe.config
+c:\users\robert\documents\visual studio 2015\Projects\PGPISConsoleApplication1\PGPISConsoleApplication1\obj\Debug\PGPISConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2015\Projects\PGPISConsoleApplication1\PGPISConsoleApplication1\bin\Debug\PGPISConsoleApplication1.exe
+c:\users\robert\documents\visual studio 2015\Projects\PGPISConsoleApplication1\PGPISConsoleApplication1\bin\Debug\PGPISConsoleApplication1.pdb
+c:\users\robert\documents\visual studio 2015\Projects\PGPISConsoleApplication1\PGPISConsoleApplication1\obj\Debug\PGPISConsoleApplication1.exe
+c:\users\robert\documents\visual studio 2015\Projects\PGPISConsoleApplication1\PGPISConsoleApplication1\obj\Debug\PGPISConsoleApplication1.pdb
